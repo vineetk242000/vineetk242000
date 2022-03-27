@@ -24,8 +24,8 @@ In my free time, I like to build projects -
 3. [Telegram Bot Twitter](https://github.com/vineetk242000/telegramBot-twitter) - A telegram bot to suggest you live/scheduled spaces according to your searched topic.
 4. [MoviesCite](https://github.com/vineetk242000/movies-cite-app) - A beautiful designed Flutter app which will give you all the updates about upcoming movies and tv series, built with Tmdb api.
 
-
-** [Twitter](https://twitter.com/vineetk242000) | [email](vineetkumar242000@gmail.com) | [LinkedIn](https://www.linkedin.com/in/vineetk242000/) | [Blog](https://bphtech.blogspot.com/) **
+Connect with me at
+**[Twitter](https://twitter.com/vineetk242000) | [email](vineetkumar242000@gmail.com) | [LinkedIn](https://www.linkedin.com/in/vineetk242000/) | [Blog](https://bphtech.blogspot.com/)**
 
 
 
