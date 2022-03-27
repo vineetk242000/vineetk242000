@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Vineet. Currently wokring at Filmscafe as a Full Stack Developer. 
+I'm Vineet. Currently working at Filmscafe as a Full Stack Developer. 
 
 In my free time, I like to build projects - 
 
