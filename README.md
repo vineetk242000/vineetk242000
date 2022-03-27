@@ -22,7 +22,7 @@ In my free time, I like to build projects -
 1. [Shiprocket-Pincode-React](https://www.npmjs.com/package/shiprocket-pincode-react) - A npm module which fetches the pincode serviceability from shiprocket
 2. [Flash Chat](https://vk-flash-chat.netlify.app/) - A web chatting app where users can create a room and chat with their friends. Built on React and socket.io
 3. [Telegram Bot Twitter](https://github.com/vineetk242000/telegramBot-twitter) - A telegram bot to suggest you live/scheduled spaces according to your searched topic.
-4. [MoviesCite](https://github.com/vineetk242000/movies-app-flutter) - A beautiful designed Flutter app which will give you all the updates about upcoming movies and tv series, built with Tmdb api.
+4. [MoviesCite](https://github.com/vineetk242000/movies-cite-app) - A beautiful designed Flutter app which will give you all the updates about upcoming movies and tv series, built with Tmdb api.
 
 
 ** [Twitter](https://twitter.com/vineetk242000) | [email](vineetkumar242000@gmail.com) | [LinkedIn](https://www.linkedin.com/in/vineetk242000/) | [Blog](https://bphtech.blogspot.com/) **
