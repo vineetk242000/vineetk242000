@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Vineet. Currently working at Filmscafe as a Full Stack Developer. 
+I'm Vineet a Full Stack Developer based in Dhanbad(IN).
 
 In my free time, I like to build projects - 
 
